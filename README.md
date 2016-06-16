@@ -16,3 +16,6 @@ A list of awesome Robo-Philosophy resources
 
 ### Journals ###
 * [International Journal of Social Robotics](http://www.springer.com/engineering/robotics/journal/12369)
+
+### Onthology of Robots ###
+* [The Atlantic: What Is a Robot, Really?](http://www.theatlantic.com/technology/archive/2016/03/what-is-a-human/473166/)
