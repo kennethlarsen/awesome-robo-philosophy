@@ -7,6 +7,9 @@ A list of awesome Robo-Philosophy resources
 ### AI ###
 * [A longread by professor Luciano Floridi who ask the question: Should we be afraid of AI?](https://aeon.co/essays/true-ai-is-both-logically-possible-and-utterly-implausible)
 
+### Ethics ###
+* [Can we trust robots to make moral decisions?](http://qz.com/653575/can-we-trust-robots-to-make-moral-decisions/)
+
 ### Gender and sex ###
 * [Episode of the podcast Tech Weekly podcast about sex robots and sex tech](https://www.theguardian.com/technology/audio/2016/feb/11/sex-technology-turn-ons-tech-weekly-podcast)
 * [Feminist sex blogger Girl on the Net asks: Could you ever love a sex robot?](https://www.girlonthenet.com/2016/02/21/could-you-ever-love-a-sex-robot/)
