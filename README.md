@@ -13,6 +13,7 @@ A list of awesome Robo-Philosophy resources
 ### Gender and sex ###
 * [Episode of the podcast Tech Weekly podcast about sex robots and sex tech](https://www.theguardian.com/technology/audio/2016/feb/11/sex-technology-turn-ons-tech-weekly-podcast)
 * [Feminist sex blogger Girl on the Net asks: Could you ever love a sex robot?](https://www.girlonthenet.com/2016/02/21/could-you-ever-love-a-sex-robot/)
+* [We need an adult debate about exploiting sex robots](http://www.wired.co.uk/magazine/archive/2016/01/ideas-bank/sex-robots-debate)
 
 ### History of technology ###
 * [A longread by Adrienne Mayor on bio-techne](https://aeon.co/essays/replicants-and-robots-what-can-the-ancient-greeks-teach-us)
